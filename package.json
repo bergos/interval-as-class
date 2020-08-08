@@ -1,6 +1,6 @@
 {
   "name": "interval-as-class",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "setTimeout as a class",
   "main": "index.js",
   "scripts": {
